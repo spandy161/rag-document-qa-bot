@@ -138,7 +138,7 @@ To ensure reliability:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone <github.com/spandy161/rag-document-qa-bot>
 cd RAG_QABOT
 ```
 
@@ -264,7 +264,7 @@ A screen recording demonstrating:
 
 ## 👤 Author
 
-* Name: [Your Name]
+* Name: Spandan Mendhe
 * Role: AI Intern Candidate
 
 ---
