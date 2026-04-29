@@ -264,7 +264,7 @@ A screen recording demonstrating:
 
 ## 👤 Author
 
-* Name: [Your Name]
+* Name: Spandan Mendhe
 * Role: AI Intern Candidate
 
 ---
