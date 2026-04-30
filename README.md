@@ -240,7 +240,7 @@ A screen recording demonstrating:
 * Answer generation
 * Source citation
 
-(Attach Loom / video link here)
+(https://www.loom.com/share/3db094ef79ca48c4bad5f6a35fc4f47d)
 
 ---
 
